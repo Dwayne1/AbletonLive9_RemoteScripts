@@ -34,7 +34,7 @@ class Colors:
 
     class Instrument:
         NoteBase = Rgb.OCEAN
-        NoteScale = Rgb.DARK_GREY
+        NoteScale = Rgb.WHITE
         NoteForeign = Rgb.MAGENTA
         NoteInvalid = Rgb.BLACK
         NoteInactive = Rgb.BLACK
